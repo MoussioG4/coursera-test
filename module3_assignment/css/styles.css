@@ -13,6 +13,10 @@ body{
     border: 0;
 }
 
+.navbar-brand {
+    margin-bottom: 15px;
+  }
+
 .navbar-brand h1{ /* Restaurant name */
     font-family: 'Kanit', sans-serif;
     color: #f5f5f5;
@@ -20,8 +24,14 @@ body{
     font-weight: bold;
     text-transform: uppercase;
     text-shadow: 1px 1px 1px #222;
+    margin: 0;
+    padding: 0;
 }
 
 .navbar-brand a{
 text-decoration: none;
+}
+
+#nav-list{
+    text-align: center;
 }
