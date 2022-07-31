@@ -35,3 +35,25 @@ text-decoration: none;
 #nav-list{
     text-align: center;
 }
+
+#main-content-title{
+    font-size: 2em;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 40px;
+}
+
+#main-content-heading{
+    font-size: 1.6em;
+    font-weight: bold;
+}
+
+#main-content-text{
+    background-color: #f5f5f5;
+    border: 2px solid #8b0000;
+    border-radius: 15px;
+}
+
+#text{
+    padding: 20px;
+}
